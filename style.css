@@ -18,7 +18,8 @@ body {
   background: var(--mainWhite);
   font-family: "Lato", sans-serif;
 }
-/*slode show*/
+
+/*sloie show*/
 
 #slider,
 .wrap,
@@ -27,7 +28,7 @@ body {
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   width: 100%;
-  height: 100vh;
+  height: 50vh;
   overflow-x: hidden;
 }
 
@@ -42,13 +43,13 @@ body {
 }
 
 .slide1 {
-  background-image: url("https://images.pexels.com/photos/824197/pexels-photo-824197.jpeg?cs=srgb&dl=pexels-parth-shah-824197.jpg&fm=jpg");
+  background-image: url("https://bc-img.s3.ap-south-1.amazonaws.com/web_banners/202110212852.jpeg");
 }
 .slide2 {
-  background-image: url("https://images.pexels.com/photos/1926988/pexels-photo-1926988.jpeg?cs=srgb&dl=pexels-ricardo-esquivel-1926988.jpg&fm=jpg");
+  background-image: url("https://bc-img.s3.ap-south-1.amazonaws.com/web_banners/2021102876728.jpeg");
 }
 .slide3 {
-  background-image: url("https://images.pexels.com/photos/1319854/pexels-photo-1319854.jpeg?cs=srgb&dl=pexels-mentatdgt-1319854.jpg&fm=jpg");
+  background-image: url("https://bc-img.s3.ap-south-1.amazonaws.com/web_banners/2021102323466.jpeg");
 }
 
 .slide-content {

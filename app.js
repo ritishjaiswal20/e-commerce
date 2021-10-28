@@ -15,6 +15,9 @@ let buttonsDOM =[];
 //getting the products 
 
 
+
+
+
 // coming soom
 
 const countdown = document.querySelector('.countdown');
@@ -248,40 +251,6 @@ class TypeWriter {
     // Init TypeWriter
     new TypeWriter(txtElement, words, wait);
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 class Products{
 async getProducts(){
